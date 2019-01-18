@@ -1,0 +1,17 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>GustavoMVC OneDriveAuthFile</h1>
+    <p class="lead">Autenticação com conta da microsoft via OAuth 2.0/Owin. Acesso à API do Graph via Azure, englobando Outlook e OneDrive.</p>
+    @if (Request.IsAuthenticated)
+    {
+        <p>Welcome, @(ViewBag.UserName)!</p>
+        <p><a href="@Url.Action("Execute", "Home", null, null)" class="btn btn-primary btn-lg">Execute</a></p>
+    }
+    else
+    {
+        <p><a href="@Url.Action("SignIn", "Home", null, Request.Url.Scheme)" class="btn btn-primary btn-lg">Clique aqui para logar com a conta da Microsoft</a></p>
+    }
+</div>

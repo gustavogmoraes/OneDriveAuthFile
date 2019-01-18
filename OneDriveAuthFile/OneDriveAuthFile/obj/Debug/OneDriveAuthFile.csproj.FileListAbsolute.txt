@@ -1,0 +1,214 @@
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\OneDriveAuthFile.dll.config
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\OneDriveAuthFile.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\OneDriveAuthFile.pdb
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\csc.exe
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\csc.exe.config
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\csc.rsp
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\csi.exe
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\csi.exe.config
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\csi.rsp
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\System.AppContext.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\System.Console.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\System.IO.Compression.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\System.Security.Claims.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\System.ValueTuple.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\vbc.exe
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\vbc.exe.config
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\vbc.rsp
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\Antlr3.Runtime.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.Graph.Core.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.Graph.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.Identity.Client.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.IdentityModel.Logging.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.Owin.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.Owin.Security.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\Newtonsoft.Json.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\Owin.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\System.Web.Helpers.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\System.Web.Mvc.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\System.Web.Optimization.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\System.Web.Razor.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\System.Web.WebPages.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\System.Web.WebPages.Razor.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\WebGrease.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\Antlr3.Runtime.pdb
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.Graph.xml
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.Graph.Core.xml
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.Identity.Client.xml
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.IdentityModel.Logging.xml
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.Owin.xml
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.Owin.Security.xml
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\Newtonsoft.Json.xml
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\System.Web.Helpers.xml
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\System.Web.Mvc.xml
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\System.Web.Optimization.xml
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\System.Web.Razor.xml
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\System.Web.WebPages.xml
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\bin\System.Web.WebPages.Razor.xml
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\obj\Debug\OneDriveAuthFile.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\obj\Debug\OneDriveAuthFile.csproj.CopyComplete
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\obj\Debug\OneDriveAuthFile.dll
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\obj\Debug\OneDriveAuthFile.pdb
+C:\Users\Gustavo\source\repos\OneDriveAuthFile\OneDriveAuthFile\obj\Debug\OneDriveAuthFile.csprojAssemblyReference.cache
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\OneDriveAuthFile.dll.config
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\OneDriveAuthFile.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\OneDriveAuthFile.pdb
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\csc.exe
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\csc.exe.config
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\csc.rsp
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\csi.exe
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\csi.exe.config
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\csi.rsp
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\System.AppContext.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\System.Collections.Immutable.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\System.Console.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\System.IO.Compression.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\System.IO.FileSystem.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\System.IO.Pipes.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\System.Reflection.Metadata.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\System.Security.AccessControl.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\System.Security.Claims.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\System.ValueTuple.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\System.Xml.XPath.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\vbc.exe
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\vbc.exe.config
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\vbc.rsp
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\VBCSCompiler.exe
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\roslyn\VBCSCompiler.exe.config
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\Antlr3.Runtime.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.Graph.Core.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.Graph.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.Identity.Client.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.IdentityModel.Logging.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.IdentityModel.Protocols.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.IdentityModel.Tokens.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.Owin.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.Owin.Security.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.Owin.Security.OpenIdConnect.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.Web.Infrastructure.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\Newtonsoft.Json.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\Owin.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\System.Web.Helpers.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\System.Web.Mvc.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\System.Web.Optimization.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\System.Web.Razor.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\System.Web.WebPages.Deployment.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\System.Web.WebPages.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\System.Web.WebPages.Razor.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\WebGrease.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\Antlr3.Runtime.pdb
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.Graph.xml
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.Graph.Core.xml
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.Identity.Client.xml
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.IdentityModel.Logging.xml
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.IdentityModel.Protocols.xml
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.IdentityModel.Tokens.xml
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.Owin.xml
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.Owin.Security.xml
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\Microsoft.Owin.Security.OpenIdConnect.xml
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\Newtonsoft.Json.xml
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\System.Web.Helpers.xml
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\System.Web.Mvc.xml
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\System.Web.Optimization.xml
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\System.Web.Razor.xml
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\System.Web.WebPages.xml
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\System.Web.WebPages.Deployment.xml
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\bin\System.Web.WebPages.Razor.xml
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\obj\Debug\OneDriveAuthFile.csprojAssemblyReference.cache
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\obj\Debug\OneDriveAuthFile.csproj.CoreCompileInputs.cache
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\obj\Debug\OneDriveAuthFile.csproj.CopyComplete
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\obj\Debug\OneDriveAuthFile.dll
+D:\Vai pro cris\OneDriveAuthFile\OneDriveAuthFile\obj\Debug\OneDriveAuthFile.pdb
